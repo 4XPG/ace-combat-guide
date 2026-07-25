@@ -31,12 +31,12 @@ metaDescription: "Mission 11 - Repel Enemy from Captured Port"
 
 # Unlock Reward
 - 12,000,000 Credits
-- New Aircraft: [R-C01](/aircraft/13_r-c01) (if this mission is completed first before [Destroy Enemy Staging Zone](/missions/m08-destroy-enemy-staging-zone) on Easy or [VIP Recovery Mission](/missions/m10-vip-recovery-mission) on Normal), [Su-27](/aircraft/09_su-27) (if this mission is completed first before [VIP Recovery Mission](/missions/m10-vip-recovery-mission) on Easy/Normal), [YF-23](/aircraft/08_yf-23) (Hard)
+- New Aircraft: [R-C01](/aircraft/13_r-c01) (if this mission is completed first before [Destroy Enemy Staging Zone](/missions/m08-destroy-enemy-staging-zone) on Easy or [VIP Recovery Mission!](/missions/m10-vip-recovery-mission) on Normal), [Su-27](/aircraft/09_su-27) (if this mission is completed first before [VIP Recovery Mission!](/missions/m10-vip-recovery-mission) on Easy/Normal), [YF-23](/aircraft/08_yf-23) (Hard)
 - New Wingman: Martin ([YF-23](/aircraft/08_yf-23)) (Normal/Hard)
 # Mission Guide
 Recommended aircraft: Su-27
 
-A bomber intercept mission much like [Fighter Superiority](/missions/m02-fighter-superiority) found in early game. Same failure condition and strategy applies, but watch out for more maneuverable escort fighters.
+A bomber intercept mission much like [Fighter Superiority!](/missions/m02-fighter-superiority) found in early game. Same failure condition and strategy applies, but watch out for more maneuverable escort fighters.
 
 ## HARD DIFFICULTY REMARK
 Two additional R-C01s are added into the escort wing.

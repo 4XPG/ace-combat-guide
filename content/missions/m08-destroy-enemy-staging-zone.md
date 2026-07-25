@@ -1,7 +1,7 @@
 ---
-title: "Destroy Enemy Staging Zone"
-metaTitle: "Destroy Enemy Staging Zone - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 8 - Destroy Enemy Staging Zone"
+title: "Destroy Enemy Staging Zone!"
+metaTitle: "Destroy Enemy Staging Zone! - Air Combat Strategy Guide Wiki"
+metaDescription: "Mission 8 - Destroy Enemy Staging Zone!"
 ---
 
 <div class="mapImage">

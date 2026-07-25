@@ -1,7 +1,7 @@
 ---
-title: "Destroy Pipe-Lines"
-metaTitle: "Destroy Pipe-Lines - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 5 - Destroy Pipe-Lines"
+title: "Destroy Pipe-Lines!"
+metaTitle: "Destroy Pipe-Lines! - Air Combat Strategy Guide Wiki"
+metaDescription: "Mission 5 - Destroy Pipe-Lines!"
 ---
 
 <div class="mapImage">

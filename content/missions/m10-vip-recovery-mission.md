@@ -1,7 +1,7 @@
 ---
-title: "VIP Recovery Mission"
-metaTitle: "IP Recovery Mission - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 10 - IP Recovery Mission"
+title: "VIP Recovery Mission!"
+metaTitle: "IP Recovery Mission! - Air Combat Strategy Guide Wiki"
+metaDescription: "Mission 10 - VIP Recovery Mission!"
 ---
 
 <div class="mapImage">

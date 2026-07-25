@@ -32,7 +32,7 @@ metaDescription: "Mission 12 - Storm the Mother Ship!"
 
 # Unlock Reward
 - 13,300,000 Credits
-- New Aircraft: [SF-39](/aircraft/12_sf-39) (Easy/Normal), [EF-2000](/aircraft/14_ef-2000) (if this mission is completed first before [Destroy Military Port Facilities](/missions/m09-destroy-military-port-facilities on Easy)), [Su-27](/aircraft/09_su-27) (Hard)
+- New Aircraft: [SF-39](/aircraft/12_sf-39) (Easy/Normal), [EF-2000](/aircraft/14_ef-2000) (if this mission is completed first before [Destroy Military Port Facilities!](/missions/m09-destroy-military-port-facilities on Easy)), [Su-27](/aircraft/09_su-27) (Hard)
 - New Wingman: Ana ([R-C01](/aircraft/13_r-c01)) (Normal), Yang ([Su-27](/aircraft/09_su-27)) (Normal/Hard)
 
 # Mission Guide

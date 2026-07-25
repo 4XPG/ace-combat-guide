@@ -1,7 +1,7 @@
 ---
 title: "Strike!"
 metaTitle: "Strike! - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 16 - The Mountain Base"
+metaDescription: "Mission 16 - Strike!"
 ---
 
 <div class="mapImage">
@@ -31,7 +31,7 @@ The enemy is on his last legs. One more strike should lay him out. Take your uni
 # Mission Guide
 Recommended aircraft: A-10 or F-22
 
-Ravine/cavern flight mission with more treacherous terrain compared to the ravine flight at [Supress Enemy Radar Base](/missions/m07-supress_enemy_radar_base). Enemy presence is minimal so the player can focus more on navigating through the ravine. The mission ends once the player reaches the open area at the end of the cavern.
+Ravine/cavern flight mission with more treacherous terrain compared to the ravine flight on [Supress Enemy Radar Base!](/missions/m07-supress_enemy_radar_base). Enemy presence is minimal so the player can focus more on navigating through the ravine. The mission ends once the player reaches the open area at the end of the cavern.
 
 ## HARD DIFFICULTY REMARK
-Seven AA Guns are added on the way through the ravine.
+Seven AA Guns are added on the way through the ravine. Some of them are placed in pairs.

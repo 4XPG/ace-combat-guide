@@ -1,7 +1,7 @@
 ---
-title: "Discovery of Airborne Fortress"
-metaTitle: "Discovery of Airborne Fortress - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 17 - Discovery of Airborne Fortress"
+title: "Discovery of Airborne Fortress!"
+metaTitle: "Discovery of Airborne Fortress! - Air Combat Strategy Guide Wiki"
+metaDescription: "Mission 17 - Discovery of Airborne Fortress!"
 ---
 
 <div class="mapImage">

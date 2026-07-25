@@ -1,7 +1,7 @@
 ---
-title: "Supress Radar Base"
-metaTitle: "Supress Radar Base - Air Combat Strategy Guide Wiki"
-metaDescription: "Mission 7 - Supress Radar Base"
+title: "Supress Radar Base!"
+metaTitle: "Supress Radar Base! - Air Combat Strategy Guide Wiki"
+metaDescription: "Mission 7 - Supress Radar Base!"
 ---
 
 <div class="mapImage">

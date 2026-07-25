@@ -44,4 +44,4 @@ Night time ground attack mission. The targets are defended with handful of AA gu
 For the first time, the player is allowed to hire a wingman. Their simplistic AI won't let them do much but they can serve well at drawing enemy fire.
 
 ## HARD DIFFICULTY REMARK
-Additional attack helicopters are present near the target buildings. Prioritize them first as they're very aggressive at lobbing missile at player.
+Additional attack helicopters are present near the target buildings. Prioritize them first as they're very aggressive at lobbing missile at player. The F-15 now comes in pairs as well.
