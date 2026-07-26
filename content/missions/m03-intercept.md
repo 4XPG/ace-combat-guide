@@ -37,4 +37,4 @@ Recommended aircraft: F/A-18, MiG-31 or F-14
 A pure dogfight mission. The E-767 and Tornados appear first before the player while the slower, more maneuverable Harrier and F/A-18s are trailing from behind.
 
 ## HARD DIFFICULTY REMARK
-The E-767s at the beginning gets replaced by pair of F/A-18s, which effictively turns the mission into 8 vs 1 dogfight. Head-on attack is much riskier to perform due to more aggressive AI and deadlier enemy weapons.
+The E-767s at the beginning gets replaced by pair of F/A-18s. Head-on attack is much riskier to perform due to more aggressive AI and deadlier enemy weapons.

@@ -9,7 +9,7 @@ metaDescription: "Aircraft #15 - TNDF-2"
 |<div class="aircraftImage"><img src="../images/aircraft/15_tndf-2.png"/></div>|<div class="aircraftImage"><img src="../images/aircraft/15_tndf-2_2.png"/></div>|
 
 # Price
-- 4,000,000
+- 4,000,000 Credits
 
 # Availability
 - Easy: Complete [Fighter Superiority!](/missions/m02-fighter-superiority!)

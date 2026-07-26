@@ -12,8 +12,8 @@ metaDescription: "Aircraft list for Air Combat."
 - Mobility: Turn rate
 
 ## Range Cheat Sheet
-- Gun maximum range: 450m
-- Missile lock maximum range: 1000m
+- Gun maximum range: 450ft
+- Missile lock maximum range: 1000ft
 - Optimum turn speed for most aircraft: around 680-700mph
 
 ## Remarks
