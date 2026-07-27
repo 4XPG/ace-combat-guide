@@ -27,8 +27,10 @@ From this loading screen, various command input can be used to access various ch
 <div class="generalImage">
   <img src="images/misc/loading_minigame.png"/>
 </div>
-The aim of this mini-game is achieving the highest points-per-second rate by running over incoming planes (either B-2 bombers or UFOs) and missiles with cartoon Phoenix logo. Press L2/Left/Square to turn Phoenix at counter-clockwise direction, and press R2/Right/Circle to turn Phoenix at clockwise direction. Press R1 to change control method between rotation or diagonal movement.
+The aim of this mini-game is achieving the highest points-per-second rate by running over incoming planes (either B-2 bombers or UFOs) and missiles with cartoon Phoenix logo. Press L2/Left/Square to turn Phoenix counter-clockwise, and press R2/Right/Circle to turn Phoenix clockwise. Press R1 to change control method between rotation or diagonal movement.
+
 The minigame timer is indicated by little bird that walks from the bottom left to bottom right corner of the screen. The mini-game session ends once the bird reaches right corner of the screen.
+
 If the player managed to hit <b>4.70 points-per-second</b> rate the player will get a congratulations message and rewarded with free aircraft and wingman hiring cost for the remainder of the game. To cancel the mini-game and revert back to secret loading screen, Hold R1 + Circle before loading screen appears.
 
 ## Game Completion Rewards

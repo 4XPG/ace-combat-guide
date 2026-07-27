@@ -725,7 +725,7 @@ export const baseStyles = css`
   .mapImage img {
     position: relative !important;
     margin-bottom: 5px !important;
-    width: auto !important;
+    width: 50%; !important;
   }
   /* end image */
   .githubBtn {

@@ -43,11 +43,11 @@ The player starts close to the central refinery area while the remaining targets
 
 Prioritize destroying the AA and SAMs with missiles, then oil tanks using guns to conserve ammunition. Enemy air power are scattered apart of each other, but this is the first mission where higher rank enemies started to appear.
 
-For reference, the following screenshots shows the exact locations of the three oil fields hidden on map:
-
-<img src="../images/mission_image/m05-target_1.png"/>
-<img src="../images/mission_image/m05-target_2.png"/>
-<img src="../images/mission_image/m05-target_3.png"/>
-
 ## HARD DIFFICULTY REMARK
 Many additional AA and SAMs are placed all over the pipelines and around the oil fields. A couple of Harriers and additional F-15s are also patrolling around the hidden target areas.
+
+## REFERENCE
+The following screenshots shows the exact locations of the three oil fields hidden on map:
+
+|<div class="mapImage"><img src="../images/mission_image/m05-target_1.png"/></div>|<div class="mapImage"><img src="../images/mission_image/m05-target_2.png"/></div>|<div class="mapImage"><img src="../images/mission_image/m05-target_3.png"/></div>|
+|-|-|-|
